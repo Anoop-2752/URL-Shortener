@@ -4,7 +4,7 @@ A simple Flask-based URL Shortener that allows users to convert long URLs into s
 
 ## Demo
 
-![URL Shortener Screenshot](assets/url_shortn.png)
+[![URL Shortener Screenshot](assets/url_shortn.png)](https://url-shortener-ochre-chi.vercel.app/)
 
 ---
 
