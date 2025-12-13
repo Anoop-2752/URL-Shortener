@@ -1,1 +1,2 @@
 # URL-Shortener
+This project is a URL Shortener Web Application built with Python. It allows users to convert long URLs into short, easy-to-share links. Users can also access the original URL by clicking the shortened link.
