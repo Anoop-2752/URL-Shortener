@@ -1,6 +1,6 @@
 # URL Shortener
 
-A simple Flask-based URL Shortener that allows users to convert long URLs into short, shareable links. Fully compatible with **Vercel deployment** and includes **CI/CD setup** using GitHub Actions.
+A simple Flask-based URL Shortener that allows users to convert long URLs into short, shareable links. Fully compatible with **Vercel deployment** and includes **CI/CD setup** using GitHub Actions
 
 ## Demo
 
